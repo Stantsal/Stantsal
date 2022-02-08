@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **https://rs.school/js/**
 
-- 📫 How to reach me **https://www.linkedin.com/in/pavelstantsal**
+- 📫 How to reach me **pavelstantsal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
